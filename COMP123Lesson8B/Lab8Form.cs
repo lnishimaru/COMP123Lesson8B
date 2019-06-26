@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace COMP123Lesson8B
 {
-    public partial class Form1 : Form
+    public partial class Lab8 : Form
     {
-        public Form1()
+        public Lab8()
         {
             InitializeComponent();
         }
